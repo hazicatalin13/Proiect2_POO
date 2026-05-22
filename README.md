@@ -29,6 +29,9 @@ Cum se compilează
 
 Asigură-te că ai calea către compilatorul g++ adăugată în variabilele de mediu (PATH).
 Deschide o consolă (Terminal / Command Prompt) în folderul principal al proiectului.
+
+
+Nu au putut fi încărcate toate fișierele SFML
 Rulează scriptul de build:
 
 .\build.bat
